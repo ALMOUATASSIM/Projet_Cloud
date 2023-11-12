@@ -1,0 +1,15 @@
+Enseignant : 
+Email : juan-angel.lorenzo-del-castillo@cyu.fr
+Mot de passe : 12345
+
+Etudiant : 
+Email : mariame@gmail.com
+Mot de passe : 12345
+
+Fonctionnaire :
+Email : mour@gmail.com
+Mot de passe : 12345
+
+Admin :
+Email : admin@admin.admin
+Mot de passe : admin
