@@ -25,8 +25,6 @@ Ce projet est un site de recherche permettant d'obtenir les emails et numéros d
 ## Gestion de la Base de Données
 -Pour gérer la base de données, accédez à phpMyAdmin via :
 `localhost:3000`
-user: user 
-password: password
 
 **Note:** Assurez-vous d'avoir Docker installé sur votre système avant d'exécuter ces commandes.
 ---
